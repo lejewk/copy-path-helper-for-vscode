@@ -13,6 +13,7 @@
     "type": "git",
     "url": "https://github.com/lejewk/copy-path-helper-for-vscode/"
   },
+  "publisher": "lighten518-publisher",
   "activationEvents": [],
   "main": "./dist/extension.js",
   "contributes": {
