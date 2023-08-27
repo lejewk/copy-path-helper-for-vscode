@@ -3,7 +3,7 @@
   "displayName": "copy path helper",
   "description": "It is a plugin that helps you copy the file path in various ways.",
   "icon": "resource/icon.png",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.81.0"
   },
@@ -35,7 +35,7 @@
       {
         "command": "extension.getFilePath",
         "key": "ctrl+shift+q",
-        "mac": "cmd+shift+q"
+        "mac": "ctrl+shift+q"
       }
     ],
     "configuration": {
