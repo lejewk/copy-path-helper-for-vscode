@@ -3,7 +3,7 @@
   "displayName": "copy path helper",
   "description": "It is a plugin that helps you copy the file path in various ways.",
   "icon": "resource/icon.png",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.81.0"
   },
